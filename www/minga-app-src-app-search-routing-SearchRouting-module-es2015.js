@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[81],{aZvc:function(n,e,t){"use strict";t.r(e),t.d(e,"SearchRoutingModule",(function(){return d}));var o=t("8Y7J"),c=t("iInd"),r=t("icxq"),i=t("DjdL");const a=[{path:":query",component:i.b,data:{searchNavPath:["q"]}}];let d=(()=>{class n{}return n.\u0275fac=function(e){return new(e||n)},n.\u0275mod=o["\u0275\u0275defineNgModule"]({type:n}),n.\u0275inj=o["\u0275\u0275defineInjector"]({imports:[[i.d,r.b,i.e,c.k.forChild(a)]]}),n})()}}]);
+//# sourceMappingURL=minga-app-src-app-search-routing-SearchRouting-module-es2015.js.map

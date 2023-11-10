@@ -1,0 +1,54 @@
+{
+  "mgsrvGatewayHost": "https://api.minga.io",
+  "app_origin": "https://app.minga.io",
+  "environment": "live",
+  "version": "6.14.0",
+  "firebaseConfig": {
+    "apiKey": "AIzaSyCQqKlvDCuwg3JpH9rirZBcFsC608vp1qg",
+    "authDomain": "app.minga.io",
+    "databaseURL": "https://minga-platform.firebaseio.com",
+    "projectId": "minga-platform",
+    "storageBucket": "minga-platform.appspot.com",
+    "messagingSenderId": "804167793453",
+    "appId": "1:804167793453:web:67eb8151a5dcb011",
+    "measurementId": "G-MVNLGH5CCZ"
+  },
+  "joinCodeCollection": "JoinCodeCountry",
+  "websiteAnalyticsId": "G-KR90T0D2Q4",
+  "assetUrlPrefix": "https://cdn.minga.io/",
+  "countryAppUrls": [
+    {
+      "country": "CAN",
+      "apiUrl": "https://api.ca.minga.io",
+      "cdnUrl": "https://cdn.minga.io/",
+      "suggestionUrl": "https://suggestions.ca.minga.io/suggested_content/",
+      "pinPrefix": ["42"],
+      "mingaJoinCodePrefix": ["C"],
+      "idBucket": "minga-platform-ca"
+    },
+    {
+      "country": "USA",
+      "apiUrl": "https://api.us.minga.io",
+      "cdnUrl": "https://cdn.us.minga.io/",
+      "suggestionUrl": "https://suggestions.us.minga.io/suggested_content/",
+      "pinPrefix": ["62"],
+      "mingaJoinCodePrefix": ["U"],
+      "idBucket": "minga-platform-usa"
+    },
+    {
+      "country": "INTL",
+      "apiUrl": "https://api.ca.minga.io",
+      "cdnUrl": "https://cdn.minga.io/",
+      "suggestionUrl": "https://suggestions.ca.minga.io/suggested_content/",
+      "pinPrefix": ["42"],
+      "mingaJoinCodePrefix": ["I"],
+      "idBucket": "minga-platform-ca"
+    }
+  ],
+  "clever": {
+    "clientId": "188398b60d204f96e6c8",
+    "devMode": false,
+    "loginEnabled": true,
+    "redirectUri": "https://prod-chargebee-webhooks-us-kvl76qeaua-uc.a.run.app/clever/auth/callback"
+  }
+}

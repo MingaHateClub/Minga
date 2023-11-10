@@ -1,0 +1,49 @@
+{
+  "mgsrvGatewayHost": "https://localhost:8443",
+  "environment": "dev",
+  "version": "dev",
+  "firebaseConfig": {
+    "apiKey": "AIzaSyDAHLOaPSflK05H4MnWSuLHHLVJpKjnyCc",
+    "authDomain": "minga-platform-stage.firebaseapp.com",
+    "databaseURL": "https://minga-platform-stage.firebaseio.com",
+    "projectId": "minga-platform-stage",
+    "storageBucket": "minga-platform-stage.appspot.com",
+    "messagingSenderId": "785102456956",
+    "appId": "1:785102456956:web:dfb8b35326564538",
+    "webFCMKey": "BFpv3Nj4h_IynXhfLK-80OsX5GmwXHxhqiiM7VDtkZqmsKv33yVKPZ_Dndesq8oqRwn-eath7akii5uJvdHmkpA",
+    "measurementId": "G-TVJVY2WT92"
+  },
+  "joinCodeCollection": "JoinCodeCountry",
+  "websiteAnalyticsId": "G-TVJVY2WT92",
+  "assetUrlPrefix": "https://cdn.stg.minga.io/",
+  "countryAppUrls": [
+    {
+      "country": "CAN",
+      "apiUrl": "https://localhost:8443",
+      "cdnUrl": "https://cdn.stg.minga.io/",
+      "pinPrefix": ["42"],
+      "mingaJoinCodePrefix": ["C"],
+      "idBucket": "minga-platform-stage-ca"
+    },
+    {
+      "country": "USA",
+      "apiUrl": "https://localhost:8443",
+      "cdnUrl": "https://cdn.stg.minga.io/",
+      "pinPrefix": ["62"],
+      "mingaJoinCodePrefix": ["U"],
+      "idBucket": "minga-platform-stage-usa"
+    },
+    {
+      "country": "INTL",
+      "apiUrl": "https://localhost:8443",
+      "cdnUrl": "https://cdn.stg.minga.io/",
+      "pinPrefix": ["42"],
+      "mingaJoinCodePrefix": ["I"],
+      "idBucket": "minga-platform-stage-ca"
+    }
+  ],
+  "clever": {
+    "clientId": "913ef69e7a22794319c4",
+    "redirectUri": "http://localhost:3000/clever/auth/callback"
+  }
+}

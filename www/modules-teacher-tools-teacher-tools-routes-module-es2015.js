@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[84],{QTIP:function(o,e,n){"use strict";n.r(e),n.d(e,"TeacherToolsRoutesModule",(function(){return s}));var t=n("8Y7J"),r=n("iInd");const i=[{path:"",pathMatch:"full",redirectTo:"/tools/my-tools"}];let s=(()=>{class o{}return o.\u0275fac=function(e){return new(e||o)},o.\u0275mod=t["\u0275\u0275defineNgModule"]({type:o}),o.\u0275inj=t["\u0275\u0275defineInjector"]({providers:[],imports:[[r.k.forChild(i)]]}),o})()}}]);
+//# sourceMappingURL=modules-teacher-tools-teacher-tools-routes-module-es2015.js.map

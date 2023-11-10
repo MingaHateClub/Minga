@@ -1,0 +1,54 @@
+{
+  "mgsrvGatewayHost": "https://api.stg.minga.io",
+  "app_origin": "https://app.stg.minga.io",
+  "environment": "stage",
+  "version": "6.14.0-rc.40",
+  "firebaseConfig": {
+    "apiKey": "AIzaSyDAHLOaPSflK05H4MnWSuLHHLVJpKjnyCc",
+    "authDomain": "app.stg.minga.io",
+    "databaseURL": "https://minga-platform-stage.firebaseio.com",
+    "projectId": "minga-platform-stage",
+    "storageBucket": "minga-platform-stage.appspot.com",
+    "messagingSenderId": "785102456956",
+    "appId": "1:785102456956:web:dfb8b35326564538",
+    "measurementId": "G-TVJVY2WT92"
+  },
+  "joinCodeCollection": "JoinCodeCountry",
+  "websiteAnalyticsId": "G-TVJVY2WT92",
+  "assetUrlPrefix": "https://cdn.stg.minga.io/",
+  "countryAppUrls": [
+    {
+      "country": "CAN",
+      "apiUrl": "https://api.ca.stg.minga.io",
+      "cdnUrl": "https://cdn.stg.minga.io/",
+      "suggestionUrl": "https://suggestions.ca.stg.minga.io/suggested_content/",
+      "pinPrefix": ["42"],
+      "mingaJoinCodePrefix": ["C"],
+      "idBucket": "minga-platform-stage-ca"
+    },
+    {
+      "country": "USA",
+      "apiUrl": "https://api.stg.minga.io",
+      "cdnUrl": "https://cdn.stg.minga.io/",
+      "suggestionUrl": "https://suggestions.us.stg.minga.io/suggested_content/",
+      "pinPrefix": ["62"],
+      "mingaJoinCodePrefix": ["U"],
+      "idBucket": "minga-platform-stage-usa"
+    },
+    {
+      "country": "INTL",
+      "apiUrl": "https://api.ca.stg.minga.io",
+      "cdnUrl": "https://cdn.stg.minga.io/",
+      "suggestionUrl": "https://suggestions.ca.stg.minga.io/suggested_content/",
+      "pinPrefix": ["42"],
+      "mingaJoinCodePrefix": ["I"],
+      "idBucket": "minga-platform-stage-ca"
+    }
+  ],
+  "clever": {
+    "clientId": "913ef69e7a22794319c4",
+    "devMode": true,
+    "loginEnabled": true,
+    "redirectUri": "https://chargebee-webhooks-stage-kvl76qeaua-uc.a.run.app/clever/auth/callback"
+  }
+}

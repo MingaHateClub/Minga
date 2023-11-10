@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[50],{"Ty/P":function(n,e,t){"use strict";t.r(e),t.d(e,"ContentViewsRoutingModule",(function(){return d}));var o=t("8Y7J"),i=t("iInd"),r=t("5s4a"),a=t("hZf4");let d=(()=>{class n{}return n.\u0275fac=function(e){return new(e||n)},n.\u0275mod=o["\u0275\u0275defineNgModule"]({type:n}),n.\u0275inj=o["\u0275\u0275defineInjector"]({imports:[[a.a,i.k.forChild([{path:"",component:r.a,data:{title:"View Content"}}])]]}),n})()}}]);
+//# sourceMappingURL=minga-app-src-app-content-views-ContentViewsRouting-module-es2015.js.map
