@@ -4,7 +4,7 @@ Build instructions for specific platforms
 ## Android
 Adding platform:
 ```
-cordova platform add
+cordova platform add android
 ```
 
 ### SPECIAL BUILD INSTRUCTIONS
