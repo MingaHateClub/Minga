@@ -19,6 +19,8 @@ cordova platform add browser
 ```
 However, you can also add Android and iOS build options
 
+**When building to Android, move google-services.json into platforms/android/app/**
+
 If you want to run the app in a Chrome testing environment, run:
 ```
 cordova run browser
