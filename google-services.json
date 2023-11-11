@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "785102456956",
+    "firebase_url": "https://minga-platform-stage.firebaseio.com",
+    "project_id": "minga-platform",
+    "storage_bucket": "minga-platform.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804167793453:android:ff828bc0033ea9c2",
+        "android_client_info": {
+          "package_name": "io.minga.app.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804167793453-cl0t4dlv9h0n3lbdpbh11jo4va1kak7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_fzjcOjz5V10Pv8OEo9XLMxllHAClM-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804167793453-cl0t4dlv9h0n3lbdpbh11jo4va1kak7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804167793453:android:ff828bc0033ea9c2",
+        "android_client_info": {
+          "package_name": "io.minga.app.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804167793453-cl0t4dlv9h0n3lbdpbh11jo4va1kak7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_fzjcOjz5V10Pv8OEo9XLMxllHAClM-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804167793453-cl0t4dlv9h0n3lbdpbh11jo4va1kak7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
