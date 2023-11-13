@@ -18,4 +18,4 @@ Now, check [the Building Guide](https://github.com/MingaHateClub/Minga/blob/main
 ## Contributing
 Contributions are always welcome! Please make a pull request if you have the time. The decompilation is not finished or fully functional yet, and even more features are planned.
 
-<sub><sup>MingaHateClub™ and the Minga Decompilation Project are not associated with the company Minga or personell from Minga.</sup></sub>
+<sub><sup>MingaHateClub™ and the Minga Decompilation Project are not associated with the company Minga or personnel from Minga.</sup></sub>
